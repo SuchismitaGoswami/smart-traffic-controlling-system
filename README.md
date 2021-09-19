@@ -5,4 +5,4 @@ An Intelligent System (using image processing algorithms in Java, Matlab) to con
 To view the source code, please refer [here](https://bitbucket.org/Doll10/xenox/src/master/) 
 
 # System Specification
-To know more about the funcational and non-function requirement, please checkout the ![SRS](./doc/SRS.pdf)
+To know more about the functional and non-function requirement, please checkout the ![SRS](./doc/SRS.pdf)
